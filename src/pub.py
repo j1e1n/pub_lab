@@ -1,4 +1,5 @@
 class Pub:
-    def __init__(self, name, total_cash):
+    def __init__(self, name, till):
         self.name = name
-        self.total_cash = total_cash
+        self.till = till
+        
